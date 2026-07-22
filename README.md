@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a trainee programmer<br>nothing much<br><br>Animator for Killershark Studios
+I'm a trainee programmer<br>nothing much<br>
 
 
 # 💻 Tech Stack:
